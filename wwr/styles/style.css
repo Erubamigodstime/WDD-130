@@ -75,7 +75,7 @@ h4{
 }
 .home-title{
     color: #8f754f;
-    font-family:"Dancing Script", "Satisfy";
+    font-family:"Dancing Script", "Satisfy","Pacifico" ;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -102,7 +102,7 @@ h4{
 
 .msg h2{
     color: #8f754f;
-    font-family:"Dancing Script", "Satisfy";
+    font-family:"Dancing Script", "Satisfy", "Pacifico";
 }
 
 .msg p{
