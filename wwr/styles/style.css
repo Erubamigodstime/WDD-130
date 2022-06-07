@@ -23,7 +23,7 @@ nav a{
 a{
     text-align: center;
 }
-#hero-img{
+.hero-img{
     width: 100%;
 }
 #hero-msg h1, #hero-msg h4{
