@@ -224,7 +224,8 @@ form{
     
     
 .hero-box  p {
-    padding: 0;
+    padding-left: 5px;
+   
 }
 .hero-box h3 {
     margin-top: 16px;
